@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/aniketsingh98571/HeaLearn">
   <img src="https://img.shields.io/github/contributors/aniketsingh98571/HeaLearn"></p>
   
-  ## 👨‍🏫Problem Statement👩‍🏫
+  ## 👨‍🏫Problem Statement:👩‍🏫
 <p align=center><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/Problem%20Statement.png"></p>
 During the Covid-19 pandemic, our health workers are busy in diagnosing of  patients without having any fear about their health. Recently the news about the problems that health workers are facing with regards to their self-learning and diagnosing relates that health workers during the pandemic are unable to give enough time to their self-learning because of 24x7 availability in hospitals and if they spend some time in self-learning then problem related to diagnosing occurs as both cannot be handled at same time.
 
