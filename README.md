@@ -23,7 +23,7 @@
 <p align=center><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/Problem%20Statement.png"></p>
 During the Covid-19 pandemic, our health workers are busy in diagnosing of  patients without having any fear about their health. Recently the news about the problems that health workers are facing with regards to their self-learning and diagnosing relates that health workers during the pandemic are unable to give enough time to their self-learning because of 24x7 availability in hospitals and if they spend some time in self-learning then problem related to diagnosing occurs as both cannot be handled at same time.
 
-## 👩‍💻Solution👨‍💻
+## 👩‍💻Solution:👨‍💻
 We the Team **"Innovators"** have created a portal for health workers which solves all these problems. The portal consists of three sections **Learn**, **Video**, **Track** ,
 Learn section contains all courses related to medical field , thanks to our learning partners for such a knowledgeble contents. Video section is where we have provided in-built video call facility between Doctor and Patient, and Track is the section where we have provided a general risk check factor for patient whether there is a risk of affecting with **Covid-19** or not?.
 
@@ -32,7 +32,7 @@ Learn section contains all courses related to medical field , thanks to our lear
 2. The end users for our application will be Doctors, Nurses and health staff.
 3. Currently for the portal we are working with only one user, so in video section you might see yourself into two frames. In future when the plaform wii be live we will add that feature via Socket Programming and some advanced concepts.
 
-## 💻Application Snapshots🖥
+## 💻Application Snapshots:🖥
 <p align=center><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/Home%20Page.png" height="500px"></p>
 <h3 align=center>Home Page</h3>
 
