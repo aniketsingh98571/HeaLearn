@@ -51,12 +51,13 @@ Learn section contains all courses related to medical field , thanks to our lear
 1. Download [node.js](https://nodejs.org/en/)
 
 ## 🎆How to Run:🎆
-1. `git clone`
-2. `cd NODE`
-3. `npm install`
-4. `npm start`
-5. `localhost:3000`
-6.  `Use the credentials from Credentials.txt`
+1. `Fork the repository`
+2. `git clone https://github.com/YOUR-USERNAME/HeaLearn`
+3. `cd NODE`
+4. `npm install`
+5. `npm start`
+6. `localhost:3000`
+7.  `Use the credentials from Credentials.txt`
 
 ## 👩‍💻Team:👨‍💻
 1. 🥇[Pushkar Khadase](https://github.com/pushkarkhadase)
